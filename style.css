@@ -69,7 +69,7 @@ ul {
 header {
     min-height: 50vh;
     width: 100%;
-    background-image: radial-gradient(circle, rgba(11, 27, 59, 0.8) 21%, rgba(0, 0, 0, 1) 100%), url("/4. instal/img/background.jpg");
+    background-image: radial-gradient(circle, rgba(11, 27, 59, 0.8) 21%, rgba(0, 0, 0, 1) 100%), url("img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -546,7 +546,7 @@ footer {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    background-image: radial-gradient(circle, rgba(11, 27, 59, 0.85) 21%, rgba(0, 0, 0, 1) 100%), url("/4. instal/img/Zbiorniki-Rzeszów_35\ —\ kopia.jpg");
+    background-image: radial-gradient(circle, rgba(11, 27, 59, 0.85) 21%, rgba(0, 0, 0, 1) 100%), url("img/Zbiorniki-Rzeszów_35\ —\ kopia.jpg");
     min-height: 15vh;
     background-repeat: no-repeat;
     background-size: cover;
