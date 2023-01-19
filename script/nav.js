@@ -1,4 +1,4 @@
-fetch('/4. instal/script/nav.html')
+fetch('script/nav.html')
     .then(res => res.text())
     .then(text => {
         let oldelem = document.querySelector("script#replace_with_nav");
